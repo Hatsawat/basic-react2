@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/basic-react2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/basic-react2/static/js/main.2416cfe0.chunk.js",
+    "main.js.map": "/basic-react2/static/js/main.2416cfe0.chunk.js.map",
+    "runtime-main.js": "/basic-react2/static/js/runtime-main.e01cd295.js",
+    "runtime-main.js.map": "/basic-react2/static/js/runtime-main.e01cd295.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/basic-react2/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f6e971c2.chunk.js": "/basic-react2/static/js/2.f6e971c2.chunk.js",
+    "static/js/2.f6e971c2.chunk.js.map": "/basic-react2/static/js/2.f6e971c2.chunk.js.map",
+    "index.html": "/basic-react2/index.html",
+    "precache-manifest.d051dfb4a287e4f16677aabb4239ba94.js": "/basic-react2/precache-manifest.d051dfb4a287e4f16677aabb4239ba94.js",
+    "service-worker.js": "/basic-react2/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/basic-react2/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/basic-react2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f6e971c2.chunk.js.LICENSE.txt": "/basic-react2/static/js/2.f6e971c2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/basic-react2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e01cd295.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f6e971c2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2416cfe0.chunk.js"
+  ]
+}
